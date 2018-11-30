@@ -1,0 +1,48 @@
+PODS:
+  - ReactiveCocoa (8.0.2):
+    - ReactiveSwift (~> 4.0)
+  - ReactiveSwift (4.0.0):
+    - Result (~> 4.0)
+  - Result (4.0.0)
+  - SnapKit (4.2.0)
+  - SwifterSwift (4.6.0):
+    - SwifterSwift/AppKit (= 4.6.0)
+    - SwifterSwift/CoreGraphics (= 4.6.0)
+    - SwifterSwift/CoreLocation (= 4.6.0)
+    - SwifterSwift/Foundation (= 4.6.0)
+    - SwifterSwift/MapKit (= 4.6.0)
+    - SwifterSwift/SpriteKit (= 4.6.0)
+    - SwifterSwift/SwiftStdlib (= 4.6.0)
+    - SwifterSwift/UIKit (= 4.6.0)
+  - SwifterSwift/AppKit (4.6.0)
+  - SwifterSwift/CoreGraphics (4.6.0)
+  - SwifterSwift/CoreLocation (4.6.0)
+  - SwifterSwift/Foundation (4.6.0)
+  - SwifterSwift/MapKit (4.6.0)
+  - SwifterSwift/SpriteKit (4.6.0)
+  - SwifterSwift/SwiftStdlib (4.6.0)
+  - SwifterSwift/UIKit (4.6.0)
+
+DEPENDENCIES:
+  - ReactiveCocoa
+  - SnapKit
+  - SwifterSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+    - SnapKit
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: fbd26e9ba60e98417ee47433e59465a98ed9da0f
+  ReactiveSwift: a2bb9ace428a109e9c0209615645d9d286c8c433
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwifterSwift: 812ffec6f301922f5430e75be3f2939ea3a80024
+
+PODFILE CHECKSUM: 5c64aca43fb6d3b637e287803fd63512e5a51009
+
+COCOAPODS: 1.5.0
